@@ -1,2 +1,4 @@
 const BTNpulse=document.getElementById('btn-pulse')
-BTNpulse
+BTNpulse.addEventListener('click',()=>{
+    alert('ahhhhhhhhh me pulsaste x.x')
+})
