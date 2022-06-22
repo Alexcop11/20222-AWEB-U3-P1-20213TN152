@@ -1,6 +1,7 @@
-.title{
-    color: aquamarine;
+.container{
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
-.sub-title{
-    color: pink;
+h1{
+    margin-left: 7%;
 }
